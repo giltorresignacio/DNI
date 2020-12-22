@@ -1,4 +1,5 @@
 {
+    "infordni": {
     "dni": {
         "numero": 49591161,
         "letra": "X"
@@ -6,4 +7,5 @@
     "nombre": "Nacho",
     "apellidos": "Gil Torres",
     "mensaje": "Cuidado con los restaurantes exoticos"
+}
 }
